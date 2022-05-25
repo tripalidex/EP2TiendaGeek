@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="mega_texto">
+        <item name="android:fontFamily">@font/roboto_black</item>
+        <item name="android:textColor">@color/color2</item>
+        <item name="android:textSize">60sp</item>
+    </style>
+
+    <style name="texto_mensaje">
+        <item name="android:fontFamily">@font/roboto_light</item>
+        <item name="android:textColor">@color/color3</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="texto_normal">
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="boton_normal">
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="backgroundTint">@null</item>
+        <item name="android:background">@drawable/fondo_boton_completo</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+    </style>
+
+    <style name="boton_principal_inferior">
+        <item name="android:background">@drawable/borde_redondo</item>
+        <item name="android:textColor">@color/color3</item>
+        <item name="android:elevation">5dp</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:paddingTop">30dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="mi_radiobutton">
+        <item name="android:drawableTop">@drawable/fondo_radio_button_noticias</item>
+        <item name="android:button">@null</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:layout_marginHorizontal">10dp</item>
+    </style>
+</resources>

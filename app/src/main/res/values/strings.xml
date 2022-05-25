@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Geeksland</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="mensaje_bienvenida">En este lugar encontrarás todo tipo de articulos gamer, ropa y más</string>
+    <string name="derechos">2022 - © Todos los derechos reservados</string>
+    <string name="descripcion_foto_portada">Personajes de videojuegos</string>
+    <string name="empezar">Empezar</string>
+    <string name="mensaje_empezar1">Somos una empresa dedicada a la comercialización de productos de entretenimiento, de capital 100% peruano, con tiendas físicas en ocho de las principales ciudades del país y con cobertura a nivel nacional mediante nuestra página web.</string>
+    <string name="mensaje_empezar2">Crear una cuenta tiene muchos beneficios: Paga tus pedidos online con Visa, Mastercard, SafetyPay o Pago Efectivo, además podrás realizar el seguimiento de tus pedidos.</string>
+    <string name="logo">Logo</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="registrate">Registrate</string>
+    <string name="terminos">Términos y condiciones</string>
+    <string name="terminos_contenido">Es requisito necesario para la adquisición de los productos que se ofrecen en este sitio, que lea y acepte los siguientes Términos y Condiciones que a continuación se redactan. El uso de nuestros servicios así como la compra de nuestros productos implicará que usted ha leído y aceptado los Términos y Condiciones de Uso en el presente documento. Todas los productos  que son ofrecidos por nuestro sitio web pudieran ser creadas, cobradas, enviadas o presentadas por una página web tercera y en tal caso estarían sujetas a sus propios Términos y Condiciones. En algunos casos, para adquirir un producto, será necesario el registro por parte del usuario, con ingreso de datos personales fidedignos y definición de una contraseña.
+\n\n
+El usuario puede elegir y cambiar la clave para su acceso de administración de la cuenta en cualquier momento, en caso de que se haya registrado y que sea necesario para la compra de alguno de nuestros productos. Geeksland no asume la responsabilidad en caso de que entregue dicha clave a terceros.
+\n\n
+Todas las compras y transacciones que se lleven a cabo por medio de este sitio web, están sujetas a un proceso de confirmación y verificación, el cual podría incluir la verificación del stock y disponibilidad de producto, validación de la forma de pago, validación de la factura (en caso de existir) y el cumplimiento de las condiciones requeridas por el medio de pago seleccionado. En algunos casos puede que se requiera una verificación por medio de correo electrónico.
+\n\n
+Los precios de los productos ofrecidos en esta Tienda Online es válido solamente en las compras realizadas en este sitio web.</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="informacion">Información</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="colaboradores">Colaboradores</string>
+    <string name="oficinas">Oficinas</string>
+    <string name="herramientas">Herramientas</string>
+    <string name="calendario">Calendario</string>
+    <string name="contactos">Contactos</string>
+    <string name="noticias">Noticias</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="noticia1">Multiversus</string>
+    <string name="noticia2">Timado</string>
+    <string name="noticia3">Poppy Playtime</string>
+    <string name="noticia4">PS Plus</string>
+    <string name="noticia1_contenido">MultiVersus fue anunciado por el desarrollador Player First Games el 18 de noviembre como un juego de lucha gratuito al estilo de Smash Bros. El tráiler del juego reveló modos de juego y más de una docena de personajes principales de la lista, lo que generó el entusiasmo por su lanzamiento en 2022.
+\n\n
+El desarrollador también anunció que el juego estará disponible para jugar en early access para aquellos que se preinscriban en el sitio web.
+\n\n
+Al publicar los detalles el 16 de mayo de 2022, WB les dio a los fanáticos de la plataforma cruzada de lucha un vistazo al caos desquiciado de MultiVersus con nuevas miradas a personajes como el Gigante de Hierro y Velma de Scooby-Doo.
+\n\n
+¿Cuál es la fecha de lanzamiento de la beta cerrada?\n
+La beta cerrada estará disponible el próximo 19 de mayo y estará activa hasta el 27 de mayo. Para poder acceder a ella hay que registrarse en la página web de WB y recibir un correo.</string>
+    <string name="noticia2_contenido">Casi. TSM.FTX, escuadra norteamericana de Dota 2 donde compite el peruano Timado, cayó derrotado por 3-1 ante OG en la gran final del ESL One Stockholm 2022 en Suecia.
+\n\n
+Pese a que TSM comenzó ganando la serie, los comandados por ‘Ceb’ lograron regresar a su mejor nivel, obteniendo los tres puntos de manera consecutivas. Aunque las primeras victorias fueron muy peleadas, la partida final fue fulminante.
+    \n\n
+    Más allá de ello, es la participación más valiosa de un jugador peruano en la historia competitiva de Dota 2 y, con el buen nivel del equipo, Timado podrá obtener su revancha pronto.
+\n\n
+Mientras que OG se lleva a casa 200 mil dólares y 680 puntos DPC para clasificar directamente al mundial de Dota 2, TSM se lleva 100 mil dólares y 610 puntos.
+\n\n
+Perú en lo alto\n
+Además del segundo lugar obtenido por TSM con Timado, dos escuadras peruanas consiguiendo ingresar a los tops 5-6.
+\n\n
+Beastcoast y Thunder Awaken lograron, en conjunto, emocionar a los seguidores de Dota 2 no solo del país, sino de toda la región. Es muy probable que ambos equipos también puedan conseguir su pase directo a The International.</string>
+    <string name="noticia3_contenido">Ya hace varios días que la segunda parte de uno de los juegos de terror más virales de este último año está disponible. El esperado Poppy Playtime Chapter 2, se estrenó hace varios días en Steam y por supuesto, ha vuelto a ser un absoluto éxito de ventas y de nuevo, se ha viralizado, subiendo como la espuma en las tendencias de redes sociales como TikTok, pero también en YouTube o la propia Twitch.
+\n\n
+Quizá el juego pudiera parecer que no es gran cosa y el título echa para atrás a más de uno creyendo que es algo infantil, sin embargo, Poppy Playtime Chapter 2 sigue aumentando el lore de este título de terror que ha hecho que los personajes trasciendan a otros medios, como artes de los fans, mods en Minecraft o juegos en Roblox simulando el original. Sin ir más lejos, el propio trailer, que os compartimos más abajo, ha sobrepasado los 46 millones de reproducciones.
+\n\n
+Poppy Playtime Chapter 2 es un fenómeno social\n
+Por eso, para celebrarlo y quizá para darle más publicidad, el estudio ha decidido hacer el primer capítulo gratuito, que podéis descargar aquí mismo. Huggy Wuggy deja el protagonismo en esta ocasión para dejárselo a Mommy Long Legs, que será la que nos perseguirá durante esta aventura, que no se extiende mucho más de las dos horas de duración, pero que, como hemos podido ver a muchos streamers, es una experiencia muy intensa.</string>
+    <string name="noticia4_contenido">En poco más de un mes tocará dar la bienvenida al nuevo PlayStation Plus, el servicio que fusionará todas las ventajas de PlayStation Plus y PlayStation Now en uno solo. Una de sus características más importantes es que concederá un acceso a un amplio catálogo de juegos retro en el caso de apuntarse a su nivel Premium, el más alto de los tres en los que se dividirá.
+\n\n
+Gracias a él los suscriptores tendrán la oportunidad de descargar y jugar a títulos de PS1, PS2, PS3 y PSP e incluso ya conocemos los nombres de algunos que formarán parte de la lista. Lo mejor de todo es que parece que habrá un buen motivo para rejugar a estas clásicas obras, ya que en algunas se implementarán trofeos para desbloquear.\n\n
+    Bend Studio ha sido una de las compañías encargadas de sorprendernos con esta noticia al confirmar que Syphon Filter tendrá sus propios trofeos para conseguir, lo que sin duda será una noticia espléndida para los más coleccionistas. Es más, hasta también contará con su propio trofeo de Platino para los que completen todos los objetivos que se marquen.\n\n
+    Lo único que no está claro es si esta estupenda novedad se implementará en todos los videojuegos retro o será una medida opcional por la que se podrá decantar cada estudio. Lo que sí se confirmó es que se aprovechará la ocasión para mejorar la resolución y la tasa de fotogramas en algunos títulos, para así ofrecer más motivos para no dejarlos pasar por alto.\n\n
+\n\n
+El nuevo PlayStation Plus estará disponible a partir del 22 de junio en Europa y en el caso de la suscripción Premium tendrá un precio de 16,99 euros al mes, 49,99 euros cada tres meses o 119,99 euros para los que prefieran la suscripción anual. A su vez permitirá acceder a pruebas de juego por tiempo limitado y disfrutar de todos los juegos desde nuestra PS4, PS5 y PC.</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="repassword">Confirmar contraseña</string>
+</resources>

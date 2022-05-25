@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.115" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/drawable/borde_redondo.xml" value="0.115" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/drawable/fondo_boton.xml" value="0.115" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/drawable/fondo_boton_completo.xml" value="0.115" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/drawable/fondo_boton_presionado.xml" value="0.115" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/drawable/fondo_radio_button_noticias.xml" value="0.115" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/drawable/ic_launcher_background.xml" value="0.115" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/layout/activity_audifonos.xml" value="0.25416666666666665" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/layout/activity_empezar.xml" value="0.25416666666666665" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/layout/activity_noticias.xml" value="0.25416666666666665" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/layout/activity_oficinas.xml" value="0.25416666666666665" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/layout/activity_principal.xml" value="0.264" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/layout/activity_registrate.xml" value="0.25416666666666665" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/layout/activity_terminos.xml" value="0.25416666666666665" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/layout/activity_videojuegos.xml" value="0.264" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/layout/fragment_noticia1.xml" value="0.25416666666666665" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/layout/fragment_noticia2.xml" value="0.25416666666666665" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/layout/fragment_noticia3.xml" value="0.25416666666666665" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/layout/fragment_noticia4.xml" value="0.25416666666666665" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/layout/item_audifono.xml" value="0.264" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/layout/item_videojuego.xml" value="0.25416666666666665" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/menu/menu_iniciar.xml" value="0.264" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/mipmap-anydpi-v26/ic_buscar.xml" value="0.115" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/mipmap-anydpi-v26/ic_buscar_round.xml" value="0.115" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.115" />
+        <entry key="..\:/ANDROID STUDIO/APLICACIONES MOVILES PARA ANDROID/TiendaGeek1145/app/src/main/res/mipmap-anydpi-v26/ic_logo_round.xml" value="0.115" />
+        <entry key="..\:/Users/Carlos/Desktop/APLICACIONES MOVILES PARA ANDROID/EP02_TiendaGeek/TiendaGeek1145/app/src/main/res/layout/activity_principal.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
